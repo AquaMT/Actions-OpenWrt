@@ -11,4 +11,4 @@ src-git telephony https://github.com/openwrt/telephony.git;openwrt-23.05
 #src-link custom /usr/src/openwrt/custom-feed
 src-git passwall https://github.com/xiaorouji/openwrt-passwall2
 src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall-packages
-src-git kiddin9 https://github.com/kiddin9/openwrt-packages
+src-git kiddin9 https://github.com/kiddin9/kwrt-packages
